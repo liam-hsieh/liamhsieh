@@ -2,7 +2,6 @@
 layout: page
 title: Docs
 permalink: /docs/
-weight: 5
 ---
 
 # Theme Docs <small class="text-muted">{{ site.github.latest_release.tag_name }}</small>
