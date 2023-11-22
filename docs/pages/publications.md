@@ -8,7 +8,7 @@ weight: 4
 # Publications and Academic Services 
 
 ## Publications
-<script src="https://bibbase.org/show?bib=https://liamhsieh.info/assets/Liam.bib"></script> 
+<script src="https://bibbase.org/show?bib=https://liamhsieh.info/assets/Liam.bib&jsonp=1"></script> 
 
 ## Journal Referee (Review records)
 - IEEE Transactions on Semiconductor Manufacturing
