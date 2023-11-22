@@ -5,6 +5,9 @@ description         : >-
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 #repository          : liam-hsieh/liamhsieh     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 # remote_theme        : YoussefRaafatNasry/portfolYOU
+# http://jekyllthemes.org/themes/jekyll-rtd-theme/
+# https://github.com/pages-themes/merlot
+# https://sighingnow.github.io/jekyll-gitbook/
 open_new_tab        : true                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
