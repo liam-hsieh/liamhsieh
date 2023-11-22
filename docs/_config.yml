@@ -79,7 +79,7 @@ analytics:
 buymeacoffee:
   enabled: true
   username: liamhsieh
-  color: "#007bff"
+  color: "#646b7a"
   message: "Wanna buy me a coffee?"                    # Message to be displayed aside from the button for a few seconds.
   description: "Support me on Buy me a coffee!"
 
