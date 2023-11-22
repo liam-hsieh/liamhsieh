@@ -8,7 +8,16 @@ description: This project has an individual showcase page, not just a direct lin
 # House Improvement ROI Prediction Model
 
 This project focuses on property valuation and cost estimation for home improvements using machine learning for the course PHYS243. 
-
+<!-- <script src="https://gist.github.com/liam-hsieh/3a14ac4b7a496e4adfd8b918e3248bc9.js" data-gist-height="600"></script> -->
 <script src="https://gist.github.com/liam-hsieh/3a14ac4b7a496e4adfd8b918e3248bc9.js"></script>
+<script>
+  // Dynamically set the height of the embedded Gist
+  document.addEventListener('DOMContentLoaded', function() {
+    var gist = document.querySelector('.gist');
+    var gistHeight = gist.scrollHeight;
 
+    // Set the height of the iframe
+    document.querySelector('iframe').style.height = gistHeight + 'px';
+  });
+</script>
 [project repo](https://github.com/liam-hsieh/phys243-project/)
