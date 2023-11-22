@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Publications
 permalink: /about/
 weight: 6
 ---
@@ -8,7 +8,7 @@ weight: 6
 # Publications and Academic Services 
 
 ## Publications
-<script src="https://bibbase.org/show?bib=https://liamhsieh.info/docs/assets/Liam.bib&jsonp=1"></script> 
+<script src="https://bibbase.org/show?bib=https://liamhsieh.info/assets/Liam.bib"></script> 
 
 ## Journal Referee (Review records)
 - IEEE Transactions on Semiconductor Manufacturing
