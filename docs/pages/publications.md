@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications/
-weight: 6
+weight: 4
 ---
 
 # Publications and Academic Services 
