@@ -1,5 +1,11 @@
-- title: Student, Harvard CS
-  from: 2014
+- title: Staff Engineer, Intel
+  from: 2021
+  to: present
+  description: Utilize data analytics to assess historical supply chain data, 
+               identify trends, and generate insights to improving Supply Chain Operations. 
+               
+- title: Senior Engineer, Micron
+  from: 2021
   to: 2018
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
