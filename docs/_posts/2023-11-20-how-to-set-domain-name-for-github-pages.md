@@ -15,6 +15,7 @@ All you need to do is to set your domain correctly and the follows are the key p
 3. set the other servers
 
 so your DNS records will at least include following items:
+
 |Type|Name|Value|TTL|
 |----|----|----|----|
 |A|@|185.199.110.153|600 seconds|
