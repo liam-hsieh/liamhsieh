@@ -9,7 +9,7 @@ baseurl             : ""                     # Change to empty quotes if you are
 # https://github.com/pages-themes/merlot
 # https://sighingnow.github.io/jekyll-gitbook/
 open_new_tab        : true                             # Opens external URLs in new tab (works for posts, projects and navbar only)
-
+visitor_counter_img : https://s11.flagcounter.com/count/IR6g/bg_646464/txt_000000/border_646464/columns_8/maxflags_24/viewers_0/labels_1/pageviews_1/flags_0/percent_1/
 
 ### Plugins ###
 plugins:
