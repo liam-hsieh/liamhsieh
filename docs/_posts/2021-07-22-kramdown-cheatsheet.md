@@ -1,4 +1,11 @@
-# Kramdown
+---
+title: Kramdown Cheatsheet
+tags: [Markdown, Kramdown , GitHub Pages]
+style: 
+color: 
+description: Notes of kramdown syntax; keep being updated.
+---
+
 
 Only two markdown processors are supported by GitHub pages with jekyll, here we follow the kramdown syntax to create our markdown files. In this note, a few essential contents for creating document will be listed for reference.
 
