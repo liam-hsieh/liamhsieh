@@ -9,4 +9,6 @@ description: This project has an individual showcase page, not just a direct lin
 
 This project focuses on property valuation and cost estimation for home improvements using machine learning for the course PHYS243. 
 
+<script src="https://gist.github.com/liam-hsieh/3a14ac4b7a496e4adfd8b918e3248bc9.js"></script>
+
 [project repo](https://github.com/liam-hsieh/phys243-project/)
