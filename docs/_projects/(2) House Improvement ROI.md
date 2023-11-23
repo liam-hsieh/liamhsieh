@@ -14,7 +14,6 @@ This project focuses on property valuation and cost estimation for home improvem
   document.addEventListener('DOMContentLoaded', function() {
     var gist = document.querySelector('.gist');
     var gistHeight = gist.scrollHeight;
-
     document.querySelector('iframe').style.height = gistHeight + 'px';
   });
 </script>
